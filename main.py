@@ -2,4 +2,4 @@
 print(" Hello Enter your  name: ")
 
 #2
-print("Otte")
+print("Otter")
